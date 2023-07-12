@@ -28,3 +28,6 @@ Seven different types of dry beans were used in this research, taking into accou
 
 ### Results table after handling imbalanced data
 ![My Image](https://github.com/ShikhamirovSarkhan/Comparing-dry-bean-dataset-classifiers/blob/f6f8cca1d1a29bc51d6fb0256d2bd7319f712d7f/results%20table3.png)
+
+### Conclusion
+I successfully investigated the imported data and done exploratory data analysis. Key information was obtained which was useful for the rest of the task. Data visualization was performed and correlations were examined. In addition, Feature Engineering was performed. Approximately all models obtained avearge a satisfactory result at the level of 91%
