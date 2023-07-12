@@ -25,3 +25,6 @@ Seven different types of dry beans were used in this research, taking into accou
 
 ### Results table
 ![My Image](https://github.com/ShikhamirovSarkhan/Comparing-dry-bean-dataset-classifiers/blob/edd2ab4dffcbd0e78b067a4d8af0d35153ab157f/results%20table.png)
+
+### Results table after handling imbalanced data
+![My Image](https://github.com/ShikhamirovSarkhan/Comparing-dry-bean-dataset-classifiers/blob/f6f8cca1d1a29bc51d6fb0256d2bd7319f712d7f/results%20table3.png)
