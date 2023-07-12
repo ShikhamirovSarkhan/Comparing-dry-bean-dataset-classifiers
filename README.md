@@ -22,3 +22,6 @@ Seven different types of dry beans were used in this research, taking into accou
 &#9679; Modeling
 
 &#9679; Modeling after handling imbalanced data
+
+### Results table
+![My Image](https://github.com/ShikhamirovSarkhan/Food-delivery-duration-modeling/blob/61445f5ef0d4ae7b864127e01d88096e384e4e7c/food_delivery.png)
